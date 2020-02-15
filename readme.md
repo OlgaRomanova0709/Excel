@@ -35,10 +35,10 @@ What are some other possible tables and/or graphs that we could create?
 Further analyzed the dataset to categorize projects by:
 
 Goal
-Number Successful
-Number Failed
-Number Canceled
-Total Projects
-Percentage Successful
-Percentage Failed
-Percentage Canceled
+Number Successful,
+Number Failed,
+Number Canceled,
+Total Projects,
+Percentage Successful,
+Percentage Failed,
+Percentage Canceled.
